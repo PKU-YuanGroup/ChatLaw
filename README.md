@@ -1,1 +1,1 @@
-# ChatLaw-13B
+# ChatLaw
