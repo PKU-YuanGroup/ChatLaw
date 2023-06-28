@@ -36,6 +36,7 @@
 - HuggingFace: [ChatLaw-33B](https://huggingface.co/JessyTsu1/ChatLaw-33B)
 - HuggingFace: [ChatLaw-Text2Vec](https://huggingface.co/chestnutlzj/ChatLaw-Text2Vec)
 
+
 ## 简介 Brief Introduction
 
 ChatLaw法律大模型目前开源的仅供学术参考的版本为姜子牙-13B版本、Anima-33B版本，我们使用大量法律新闻、法律论坛、法条、司法解释、法律咨询、法考题、判决文书等原始文本来构造对话数据。
@@ -48,6 +49,8 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本为姜子牙-13B
 
 ## 效果 Results
 
+**注意：** 在线体验中加入了法条检索模块，因此会有更好的效果。
+
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_3.jpg)
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_1.jpg)
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_2.jpg)
@@ -55,7 +58,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本为姜子牙-13B
 
 ##  使用 Usage
 
-由于LLaMA权重的许可限制，该模型不能用于商业用途，请严格遵守LLaMA的使用政策。考虑到LLaMA权重的许可证限制，我们无法直接发布完整的模型权重。、
+由于LLaMA权重的许可限制，该模型不能用于商业用途，请严格遵守LLaMA的使用政策。考虑到LLaMA权重的许可证限制，我们无法直接发布完整的模型权重。
 
 
 
