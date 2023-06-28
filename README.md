@@ -8,16 +8,16 @@
   <p align="center">
     <h3>但愿世间不纷争，何惜法典卷生尘</h3>
       <a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
-        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/JessyTsu1/ChatLaw" />
+        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PKU-YuanGroup/ChatLaw" />
       </a>
       <a href="https://github.com/PKU-YuanGroup/ChatLaw/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/JessyTsu1/ChatLaw?color=0088ff" />
+        <img alt="Issues" src="https://img.shields.io/github/issues/PKU-YuanGroup/ChatLaw?color=0088ff" />
       </a>
       <a href="https://github.com/PKU-YuanGroup/ChatLaw/pulls">
-        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/JessyTsu1/ChatLaw?color=0088ff" />
+        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PKU-YuanGroup/ChatLaw?color=0088ff" />
       </a>
       <a href="https://github.com/PKU-YuanGroup/ChatLaw/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/JessyTsu1/ChatLaw?color=ccf" />
+        <img alt="GitHub stars" src="https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw?color=ccf" />
       </a>
       <br/>
       <em>易用 / 简单 / 快速 </em>
