@@ -48,10 +48,9 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本为姜子牙-13B
 
 ## 效果 Results
 
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/master/images/demo_3.jpg)
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/master/images/demo_1.jpg)
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/master/images/demo_2.jpg)
-
+![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_3.jpg)
+![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_1.jpg)
+![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_2.jpg)
 
 
 ##  使用 Usage
