@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/PKU-YuanGroup/ChatLaw">
-  <img src="https://raw.githubusercontent.com/JessyTsu1/ChatLaw/master/demo/logo.png" width="50%">
+  <img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/logo.png" width="50%">
   </a>
 
   <p align="center">
