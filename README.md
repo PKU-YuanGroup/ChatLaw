@@ -49,7 +49,7 @@
 
 ## 简介 Brief Introduction
 
-<center><img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/ChatLaw_framework.png" style="width=40%;"/></center>
+<div align="center"><img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/ChatLaw_framework.png" style="width=40%;"/></div>
 
 ChatGPT浪潮下，人工智能的不断扩展和发展为LLM的扩散提供了肥沃的土壤，目前医疗、教育、金融领域已逐渐有了各自的模型，但法律领域迟迟没有明显进展。
 
