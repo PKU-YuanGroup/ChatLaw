@@ -67,7 +67,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/webpage.png)
 
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/lawchat_page.png)
+![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/chat_page.png)
 
 
 
