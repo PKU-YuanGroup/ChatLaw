@@ -69,7 +69,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 ## 数据 Dataset
 
-我们的数据主要由论坛、新闻、法条、司法解释、法律咨询、法考题、判决文书组成，随后经过清洗、数据增强等来构造对话数据。详细的参考数据在[ChatLaw训练数据demo](https://github.com/PKU-YuanGroup/ChatLaw/data)，以下是数据样例:
+我们的数据主要由论坛、新闻、法条、司法解释、法律咨询、法考题、判决文书组成，随后经过清洗、数据增强等来构造对话数据。详细的参考数据在[ChatLaw训练数据demo](https://github.com/PKU-YuanGroup/ChatLaw/tree/main/data)，以下是数据样例:
 
 | question                                                     | answer                                                       | Subject    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
@@ -82,15 +82,13 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 ## 实验结果 experiments
 
-如何合理地评估垂直领域大模型的性能一直是一个问题，因为测试数据和真实场景存在差异，我们暂时没有完美的思路。我们只是收集了十余年的国家司法考试题目，整理出了一个包含2000个问题及其标准答案的测试数据集，用以衡量模型处理法律选择题的能力，[评测数据demo](https://github.com/PKU-YuanGroup/ChatLaw/data/ELO_val)。
+如何合理地评估垂直领域大模型的性能一直是一个问题，因为测试数据和真实场景存在差异，我们暂时没有完美的思路。我们只是收集了十余年的国家司法考试题目，整理出了一个包含2000个问题及其标准答案的测试数据集，用以衡量模型处理法律选择题的能力: [评测数据demo](https://github.com/PKU-YuanGroup/ChatLaw/tree/main/data/ELO_val)。
 
 然而，我们发现各个模型的准确率普遍偏低。在这种情况下，仅对准确率进行比较并无多大意义。因此，我们借鉴英雄联盟的ELO匹配机制，做了一个模型对抗的ELO机制，以便更有效地评估各模型处理法律选择题的能力。以下分别是ELO分数和胜率图
 
-<img src="https://github.com/PKU-YuanGroup/ChatLaw/images/elo.jpg" alt="elo" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/elo.jpg" alt="elo" style="zoom:50%;" />
 
-![win_rate](https://github.com/PKU-YuanGroup/ChatLaw/images/win_rate.png)
-
-
+![win_rate](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/win_rate.png)
 
 有以下结论：（1）引入法律相关的问答和法规条文的数据，能在一定程度上提升模型在选择题上的表现；（2）加入特定类型任务的数据进行训练，模型在该类任务上的表现会明显提升。例如，ChatLaw模型之所以能胜过GPT-4，是因为我们使用了大量选择题作为训练数据；（3）法律选择题需要进行复杂的逻辑推理，因此，参数量更大的模型通常表现更优。
 
@@ -115,27 +113,9 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 欢迎加入我们官方交流群：
 
-![](https://github.com/PKU-YuanGroup/ChatLaw/images/wechat.jpg)
+<img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat.jpg" style="zoom:50%;" />
 
-![](https://github.com/PKU-YuanGroup/ChatLaw/images/wechat_group.jpg)
-
-
-
-
-
-## Star History
-
-[![Star History](https://api.star-history.com/svg?repos=PKU-YuanGroup/ChatLaw&type=Date)](https://star-history.com/#PKU-YuanGroup/ChatLaw&Date)
-
-## Contributors
-
-<a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/ChatLaw" />
-</a>
-
-
-
-
+![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group.jpg)
 
 ##  使用 Usage
 
@@ -163,4 +143,20 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
   howpublished={\url{https://github.com/PKU-YuanGroup/ChatLaw}},
 }
 ```
+
+
+
+
+
+## Star History
+
+[![Star History](https://api.star-history.com/svg?repos=PKU-YuanGroup/ChatLaw&type=Date)](https://star-history.com/#PKU-YuanGroup/ChatLaw&Date)
+
+## Contributors
+
+<a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/ChatLaw" />
+</a>
+
+
 
