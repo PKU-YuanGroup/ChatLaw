@@ -86,9 +86,10 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 然而，我们发现各个模型的准确率普遍偏低。在这种情况下，仅对准确率进行比较并无多大意义。因此，我们借鉴英雄联盟的ELO匹配机制，做了一个模型对抗的ELO机制，以便更有效地评估各模型处理法律选择题的能力。以下分别是ELO分数和胜率图
 
-<img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/elo.jpg" alt="elo" style="zoom:50%;" />
-
-![win_rate](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/win_rate.png)
+<div style="text-align: center;">
+  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/elo.jpg width="200"/>
+    <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/win_rate.png width="500"/>
+</div>
 
 有以下结论：（1）引入法律相关的问答和法规条文的数据，能在一定程度上提升模型在选择题上的表现；（2）加入特定类型任务的数据进行训练，模型在该类任务上的表现会明显提升。例如，ChatLaw模型之所以能胜过GPT-4，是因为我们使用了大量选择题作为训练数据；（3）法律选择题需要进行复杂的逻辑推理，因此，参数量更大的模型通常表现更优。
 
@@ -113,9 +114,10 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 欢迎加入我们官方交流群：
 
-<img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat.jpg" style="zoom:50%;" />
-
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group.jpg)
+<div style="text-align: center;">
+  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat.jpg width="300"/>
+  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group.jpg width="300"/>
+</div>
 
 ##  使用 Usage
 
