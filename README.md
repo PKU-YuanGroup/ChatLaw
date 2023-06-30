@@ -101,7 +101,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 ## 效果 Results
 
-**注意：** 测试中加入了法条检索模块，因此会有更好的效果。**在目前的在线体验中暂未接入法条检索模块。**
+**注意：** 下面的测试图中加入了法条检索模块，因此会有更好的效果。**目前由于在线体验网站压力过大，服务器资源不足，我们关闭了法条检索模块，因此您只能体验原生模型**
 
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_3.jpg)
 ![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_1.jpg)
