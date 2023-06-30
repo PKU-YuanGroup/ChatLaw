@@ -61,8 +61,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 我们的技术报告在这里: [arXiv: ChatLaw](https://arxiv.org/pdf/2306.16092.pdf)
 
-基于可商用的模型训练而成的版本会作为我们后续产品内部接入的版本，对外不开源，可以在[这里](https://chatlaw.cloud/lawchat/)进行开源版本模型的试用
-
+基于可商用的模型训练而成的版本会作为我们后续产品内部接入的版本，对外不开源。
 
 
 ## 数据 Dataset
@@ -91,15 +90,6 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 有以下结论：（1）引入法律相关的问答和法规条文的数据，能在一定程度上提升模型在选择题上的表现；（2）加入特定类型任务的数据进行训练，模型在该类任务上的表现会明显提升。例如，ChatLaw模型之所以能胜过GPT-4，是因为我们使用了大量选择题作为训练数据；（3）法律选择题需要进行复杂的逻辑推理，因此，参数量更大的模型通常表现更优。
 
-
-
-## 效果 Results
-
-**注意：** 下面的测试图中加入了法条检索模块，因此会有更好的效果。**目前由于在线体验网站压力过大，服务器资源不足，我们关闭了法条检索模块**。
-
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_3.jpg)
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_1.jpg)
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/demo_2.jpg)
 
 ## 未来计划
 
