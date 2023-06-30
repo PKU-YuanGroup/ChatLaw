@@ -21,8 +21,6 @@
       <br/>
       <em>易用 / 简单 / 快速 </em>
       <br/>
-      <a href="https://chatlaw.cloud/"><strong>官网</strong></a>
-        ·
 <a href="https://arxiv.org/pdf/2306.16092.pdf"><strong>arXiv</strong></a>
         ·
       <a href="https://chatlaw.cloud/lawchat/"><strong>在线体验</strong></a>
@@ -63,11 +61,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 我们的技术报告在这里: [arXiv: ChatLaw](https://arxiv.org/pdf/2306.16092.pdf)
 
-基于可商用的模型训练而成的版本会作为我们产品[ChatLaw产品官网](http://www.chatlaw.cloud/)内部接入的版本，对外不开源，可以在[这里](https://chatlaw.cloud/lawchat/)进行开源版本模型的试用
-
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/webpage.png)
-
-![](https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/chat_page.png)
+基于可商用的模型训练而成的版本会作为我们后续产品内部接入的版本，对外不开源，可以在[这里](https://chatlaw.cloud/lawchat/)进行开源版本模型的试用
 
 
 
