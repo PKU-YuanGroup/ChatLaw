@@ -108,7 +108,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 欢迎加入我们官方交流群：
 
 <div style="text-align: center;">
-  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group10.jpeg width="300"/>
+  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group10.jpg width="300"/>
 </div>
 
 
