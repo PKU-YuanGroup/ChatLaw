@@ -21,9 +21,6 @@
       <br/>
       <em>易用 / 简单 / 快速 </em>
       <br/>
-<a href="https://arxiv.org/pdf/2306.16092.pdf"><strong>arXiv</strong></a>
-            ·
-      <a href="https://chatlaw.cloud/lawchat/"><strong>在线体验</strong></a>
     </p>
 
   </p>
@@ -115,7 +112,7 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 ##  使用 Usage
 
-由于LLaMA权重的许可限制，该模型不能用于商业用途，请严格遵守LLaMA的使用政策。考虑到LLaMA权重的许可证限制，我们无法直接发布完整的模型权重。
+由于LLaMA权重的许可限制，该模型不能用于商业用途，请严格遵守LLaMA的使用政策。考虑到LLaMA权重的许可证限制，我们无法直接发布完整的模型权重。您可以到这里查看[权重合并说明](merge.md)。
 
 
 
