@@ -102,12 +102,6 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 + **安全可信，减少幻觉**：法律是一个严肃的场景，我们在优化模型回复内容的法条、司法解释的准确性上做了很多努力，现在的ChatLaw和向量库结合的方式还可以进一步优化，另外我们和[ChatExcel](https://chatexcel.com/)团队师兄深度结合，在学术领域研究LLM的幻觉问题，预计两个月后会有突破性进展，从而大幅减轻幻觉现象。
 + **私有数据模型**：我们一方面会继续扩大模型的基础法律能力，另一方面会探索B/G端的定制化私有需求，欢迎探讨合作
 
-欢迎加入我们官方交流群：
-
-<div style="text-align: center;">
-  <img src=https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/wechat_group10.jpg width="300"/>
-</div>
-
 
 
 ##  使用 Usage
