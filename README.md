@@ -21,11 +21,14 @@
       <br/>
       <em>易用 / 简单 / 快速 </em>
       <br/>
+      <a href="https://arxiv.org/pdf/2306.16092.pdf"><strong>arXiv</strong></a>
+        ·
+      <a href="https://chatlaw.cloud/lawchat/"><strong>在线体验</strong></a>
+        ·
+      <a href="https://huggingface.co/JessyTsu1/ChatLaw-13B"><strong>HuggingFace</strong></a>
     </p>
-
   </p>
 </div>
-
 
 # ChatLaw系列模型
 
