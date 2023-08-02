@@ -111,6 +111,21 @@ ChatLaw法律大模型目前开源的仅供学术参考的版本底座为姜子�
 
 如果您是法律人/技术开发者/需求者，想进一步了解团队或加入我们，欢迎添加微信13834965808，请写明来意，我们期待与您的交流。
 
+## 项目参与者
+
+本项目由北京大学深圳信息工程学院完成，指导教师为[袁粒](https://yuanli2333.github.io/)
+
+以下为相关贡献者，排名不分先后
+
+发起人：[陈伯华](https://github.com/cbh1733908441)、[Panda](https://github.com/JessyTsu1)
+
+研发：[WLJ](https://github.com/Jditbs)、[Rikka](https://github.com/qqingzheng)、[李桢](https://github.com/LZpenguin)、[熊博](https://github.com/BearBo666)、[牛天翔](https://github.com/moisoc)、[刘星宇](https://github.com/LkkkLxy)、[晏阳](https://github.com/yanyang1024)、[童维希](https://github.com/VichyTong)、[谢晗琦](https://github.com/xhq18397777970)
+
+视频制作：[Zorn Wang](https://github.com/ZornWang)
+
+UI&设计：毛茜茜
+
+Hr&商务：向曾(iamzoey429@163.com)
 
 ##  使用 Usage
 
