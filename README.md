@@ -1,4 +1,5 @@
-# ChatLaw：A Powerful LLM Tailored for Chinese Legal. 中文法律大模型
+# Chatlaw: A Large Language Model-based Multi-Agent Legal Assistant Enhanced by Knowledge Graph and Mixture-of-Experts. 
+中文法律大模型
 
 <div align="center">
   <a href="https://github.com/PKU-YuanGroup/ChatLaw">
