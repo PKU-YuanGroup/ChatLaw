@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/logo.png" width="50%">
   </a>
   <p align="center">
-    <h3>但愿世间不纷争，何惜法典卷生尘</h3>
+    <h3>但愿人无讼,何妨我独闲</h3>
       <a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
         <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PKU-YuanGroup/ChatLaw" />
       </a>
