@@ -5,21 +5,6 @@
   <img src="https://raw.githubusercontent.com/PKU-YuanGroup/ChatLaw/main/images/logo.png" width="50%">
   </a>
   <p align="center">
-    <h3>但愿世间不纷争，何惜法典卷生尘</h3>
-      <a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
-        <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/PKU-YuanGroup/ChatLaw" />
-      </a>
-      <a href="https://github.com/PKU-YuanGroup/ChatLaw/issues">
-        <img alt="Issues" src="https://img.shields.io/github/issues/PKU-YuanGroup/ChatLaw?color=0088ff" />
-      </a>
-      <a href="https://github.com/PKU-YuanGroup/ChatLaw/pulls">
-        <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/PKU-YuanGroup/ChatLaw?color=0088ff" />
-      </a>
-      <a href="https://github.com/PKU-YuanGroup/ChatLaw/stargazers">
-        <img alt="GitHub stars" src="https://img.shields.io/github/stars/PKU-YuanGroup/ChatLaw?color=ccf" />
-      </a>
-      <br/>
-      <br/>
       <a href="https://arxiv.org/pdf/2306.16092.pdf"><strong>arXiv</strong></a>
         ·
       <a href="https://huggingface.co/PandaVT/ChatLaw2-Moe"><strong>HuggingFace</strong></a>
@@ -71,11 +56,6 @@ The diagram below illustrates the collaborative process of multiple agents in pr
 
 # Dataset
 
-For datasets, please visit:
-
-- [Chinese Law Examples](https://huggingface.co/datasets/PandaVT/chinese_law_examples)
-- [Chinese Verdict Examples](https://huggingface.co/datasets/PandaVT/chinese_verdict_examples)
-
 ## Data Visualization and Performance Comparison
 
 (a) Our legal dataset covers a diverse range of tasks, from case classification to public opinion analysis.
@@ -110,7 +90,6 @@ For datasets, please visit:
 Find the model at: [ChatLaw2-MoE](https://huggingface.co/PandaVT/ChatLaw2-MoE)
 
 
-
 ```
 @misc{cui2024chatlaw,
       title={Chatlaw: A Multi-Agent Collaborative Legal Assistant with Knowledge Graph Enhanced Mixture-of-Experts Large Language Model}, 
@@ -137,9 +116,3 @@ Find the model at: [ChatLaw2-MoE](https://huggingface.co/PandaVT/ChatLaw2-MoE)
 ## Star History
 
 [![Star History](https://api.star-history.com/svg?repos=PKU-YuanGroup/ChatLaw&type=Date)](https://star-history.com/#PKU-YuanGroup/ChatLaw&Date)
-
-## Contributors
-
-<a href="https://github.com/PKU-YuanGroup/ChatLaw/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=PKU-YuanGroup/ChatLaw" />
-</a>
